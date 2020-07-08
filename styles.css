@@ -256,16 +256,20 @@ padding:5% 0 2%;
 @media(max-width: 499px)
 {
 .main-heading{
-font-size: 2.5rem;
+font-size: 2.2rem;
 font-weight: 800;
 }
 
 .title-image{
 margin-top: 2rem;
 }
+  
+.download-button{
+margin:5% 0.5% 5% 0;
+}
 
 #testimonials h2{
-font-size: 2rem;
+font-size: 1.8rem;
 font-weight: 700;
 }
 
@@ -274,10 +278,10 @@ width: 20%;
 }
 
 .price-heading{
-font-size: 2.5rem;
+font-size: 2.2rem;
 }
 .cta-heading{
-font-size: 2.4rem;
+font-size: 2.3rem;
 }
 }
 
