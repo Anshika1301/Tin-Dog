@@ -283,11 +283,12 @@ width: 20%;
 
 .price-heading{
 font-size: 1.8rem;
+font-weight: 800rem;
 }
  
 .card-body h2{
   font-size: 2rem;
-  font-weight: 800;
+  font-weight: 600;
  }
   
 .cta-heading{
